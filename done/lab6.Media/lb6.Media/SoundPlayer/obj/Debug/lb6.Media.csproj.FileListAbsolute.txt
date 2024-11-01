@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\lb6.Media.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\MainWindow.g.cs
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\App.g.cs
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\Media_MarkupCompile.cache
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\Media_MarkupCompile.lref
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\bin\Debug\Media.exe.config
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\bin\Debug\Media.exe
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\bin\Debug\Media.pdb
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\MainWindow.baml
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\Media.g.resources
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\Media.Properties.Resources.resources
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\lb6.Media.csproj.GenerateResource.cache
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\lb6.Media.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\Media.exe
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\Media.pdb
+C:\Users\1\Desktop\вуз\1.2\pogi\done\lab6.Media\lb6.Media\Media\obj\Debug\Media.Resource.resources
