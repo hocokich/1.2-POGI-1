@@ -1,0 +1,27 @@
+﻿<Window x:Class="zad3.MainWindow" 
+        Icon="C:\Users\1\Desktop\вуз\1.2\pogi\done\lab2\zad3\icon.ico"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zad3"
+        mc:Ignorable="d"
+        Title="lab2.3" Height="450" Width="800" ResizeMode="NoResize">
+
+    <Grid>
+        <TextBlock x:Name="Info" HorizontalAlignment="Left" Height="414" Margin="163,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="627"/>
+        <ListBox x:Name="Planets" HorizontalAlignment="Left" Height="84" Margin="10,10,0,0" VerticalAlignment="Top" Width="148"  Grid.ColumnSpan="2">
+            <ListBoxItem Selected="ListBoxItem_Selected">Меркурий</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_1">Венера</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_2">Земля</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_3">Марс</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_4">Юпитер</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_5">Сатурн</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_6">Уран</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_7">Нептун</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_8">Плутон</ListBoxItem>
+        </ListBox>
+
+    </Grid>
+
+</Window>

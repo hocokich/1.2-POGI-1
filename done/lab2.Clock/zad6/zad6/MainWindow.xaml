@@ -1,0 +1,19 @@
+﻿<Window x:Class="zad6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zad6"
+        mc:Ignorable="d"
+        Title="Lab2.6" Height="510" Width="800" ResizeMode="NoResize">
+    <Grid Margin="0,0,0,-6">
+        <Menu x:Name="File" Margin="36,33,693,412">
+            <MenuItem Header="File" Width="111" Height="30">
+                <MenuItem Header="Open" Click="Open"/>
+                <MenuItem Header="Save" Click="Save"/>
+            </MenuItem>
+        </Menu>
+        <TextBox x:Name="TextFromFile" HorizontalAlignment="Left" Margin="153,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="600" Height="285"/>
+
+    </Grid>
+</Window>
